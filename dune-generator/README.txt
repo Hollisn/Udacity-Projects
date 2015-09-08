@@ -1,6 +1,6 @@
 Here is a generator that reads in a book and generates a dictionary of words that can follow each pair of words in that book. 
 
-It picks a random pair, then a random word that can follow that pair (according to the logic from the input bood), then it picks a random word that follows the new pair.  
+It picks a random pair, then a random word that can follow that pair, then a random word that follows the new pair.  
 
 Example 1) 
 
